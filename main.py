@@ -1,4 +1,4 @@
-# Ez az elso modositas
+# Ez az elso modositas.
 
 
 # Press Shift+F10 to execute it or replace it with your code.
